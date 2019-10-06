@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Quiz</string>
+    <string name="add_question">ADD QUESTION</string>
+    <string name="list_questions">LIST QUESTIONS</string>
+    <string name="question_name">Question</string>
+    <string name="optionA">Option A</string>
+    <string name="optionB">Option B</string>
+    <string name="optionC">Option C</string>
+    <string name="optionD">Option D</string>
+    <string name="question_answer">What is the answer ?</string>
+    <string name="play">PLAY</string>
+    <string name="see_next_question">SEE NEXT QUESTION</string>
+    <string name="go_to_main_menu">GO TO MAIN MENU</string>
+</resources>
